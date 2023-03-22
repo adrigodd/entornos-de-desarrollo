@@ -4,6 +4,7 @@ body{
     margin-top: auto;
     margin-bottom: auto;
     margin-right: auto;
+    background-color: aqua;
 }
 #Titulo{
     text-align: center;
@@ -35,9 +36,12 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     width: 1450px;
 }
+img{
+    height:500px;
+    width:1450px;
+}
 #piepagina{
     position: relative;
     width: 400px;
     left: 550px;
-    top: 200px;
 }
