@@ -9,3 +9,8 @@
 #paso2{
     font-family: Arial, Helvetica, sans-serif;
 }
+footer{
+    position: relative;
+    left: 500px;
+    top: 200px;
+}
