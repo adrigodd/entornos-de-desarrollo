@@ -10,16 +10,30 @@ body{
     position: relative;
     left: 450px;
     width: fit-content;
+    font-style: italic;
 }
 
 #paso1{
     font-family: Arial, Helvetica, sans-serif;
-    width: fit-content;
+    width: 1450px;
+
+    
+}
+h1{
+    text-align: center;
 }
 
 #paso2{
     font-family: Arial, Helvetica, sans-serif;
-    width: fit-content;
+    width: 1450px;
+}
+#paso3{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1450px;
+}
+#paso4{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1450px;
 }
 #piepagina{
     position: relative;
